@@ -11,7 +11,7 @@
 	<a href="https://github.com/MichaelSt98">
 		<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white"/>
 	</a>
-	<a href="www.linkedin.com/in/michael-staneker">
+	<a href="https://www.linkedin.com/in/michael-staneker">
 		<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
 </p>
@@ -95,7 +95,7 @@ Currently finishing my master's degree in physics at the <a href="https://uni-tu
   <tr>
     <td valign="top" align="left" width="500">
     <ul>
-      <li>A HPC N-Body and Smooth(ed) Particle Hydrodyamics (SPH) code via CUDA-aware MPI targeting distributed memory systems</li>
+      <li>A HPC N-Body and Smooth(ed) Particle Hydrodyamics (SPH) code via **CUDA-aware MPI** targeting distributed memory systems</li>
       <li>For 1, 2 and 3 dimensional simulation</li>
       <li>Dynamic load balancing using space-filling curves</li>
       <li>Current test cases:</li>
