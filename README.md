@@ -32,51 +32,50 @@ Currently finishing my master's degree in physics at the <a href="https://uni-tu
 <h3> languages </h3>
 </div>
 
-<p align=center>
-
+<div align="center">
+<p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="C" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
-
 </p>
+</div>
 
 <div align="center">
 <h3> databases </h3>
 </div>
 
-<p align="center">
-
+<div align="center">
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="mysql" />&nbsp;&nbsp;
-
 </p>
+</div>
 
 <div align="center">
 <h3> operating systems </h3>
 </div>
 
-<p align="center">
-
-
+<div align="center">
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="linux" />&nbsp;&nbsp;
-
 </p>
+</div>
 
 <div align="center">
 <h3> and other stuff </h3>
 </div>
 
-<p align="center">
-
+<div align="center">
+<p>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="git" />&nbsp;&nbsp;
-
 </p>
+</div>
 
 <div align="center">
 <h3> I already worked with and like. </h3>
@@ -94,7 +93,7 @@ Currently finishing my master's degree in physics at the <a href="https://uni-tu
 
 <table>
   <tr>
-    <td valign="top" align="left" width="96">
+    <td valign="top" align="left" width="500">
     <ul>
       <li>A HPC N-Body and Smooth(ed) Particle Hydrodyamics (SPH) code via CUDA-aware MPI targeting distributed memory systems</li>
       <li>For 1, 2 and 3 dimensional simulation</li>
@@ -110,12 +109,11 @@ Currently finishing my master's degree in physics at the <a href="https://uni-tu
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelSt98&repo=MilupHPC" />
       </a>
     </td>
-    <td align="center" width="96">
-    <img src="gifs/4proc_plummer_dynamic.gif" alt="this slowpoke moves"  width="300" />
+    <td align="center" width="500">
+    <img src="gifs/4proc_plummer_dynamic.gif" alt="sample plummer model"  width="400" />
     </td>
   </tr>
 </table>
-
 
 
 <details>
