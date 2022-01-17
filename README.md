@@ -95,7 +95,7 @@ Currently finishing my master's degree in physics at the <a href="https://uni-tu
   <tr>
     <td valign="top" align="left" width="500">
     <ul>
-      <li>A HPC N-Body and Smooth(ed) Particle Hydrodyamics (SPH) code via **CUDA-aware MPI** targeting distributed memory systems</li>
+      <li>A HPC N-Body and Smooth(ed) Particle Hydrodyamics (SPH) code via <br>CUDA-aware MPI</br> targeting distributed memory systems</li>
       <li>For 1, 2 and 3 dimensional simulation</li>
       <li>Dynamic load balancing using space-filling curves</li>
       <li>Current test cases:</li>
